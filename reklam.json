@@ -1,0 +1,16 @@
+{
+  "reklamlar": [
+    {
+      "marka": "test reklam",
+      "site_link": "https://www.test.com",
+      "aciklama": "test",
+      "buton_yazisi": "test",
+    },
+    {
+      "marka": "test",
+      "site_link": "https://www.test.com",
+      "aciklama": "test",
+      "buton_yazisi": "test"
+    }
+  ]
+}
